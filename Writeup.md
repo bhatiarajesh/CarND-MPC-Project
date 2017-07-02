@@ -63,7 +63,7 @@ These (x,y) points are displayed in reference to the vehicle's coordinate system
 
 ## Conclusion
 
-[![Displaying the MPC trajectory path in green, and the polynomial fitted reference path in yellow.](https://github.com/bhatiarajesh/CarND-MPC-Project/raw/master/out/Kinematic-Model.png)]
+[![Displaying the MPC trajectory path in green, and the polynomial fitted reference path in yellow.](https://github.com/bhatiarajesh/CarND-MPC-Project/raw/master/out/CarND-MPC-Project.png)]
 
 See, [video recording of the MPC project run](https://youtu.be/QTP3pxZDqB0)
 
